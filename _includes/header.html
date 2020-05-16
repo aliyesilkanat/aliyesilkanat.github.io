@@ -5,7 +5,7 @@
       <h2>{{ site.title | escape }}</h2>
        {%- if site.email -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
     </div>
