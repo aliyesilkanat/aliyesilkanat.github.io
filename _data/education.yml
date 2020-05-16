@@ -1,9 +1,19 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Boğaziçi University
+  dates: 2017-2020
+  qualification: Master of Science
   quote: >
-    Short institution or course description (optional)
+    Voice Conversion, Deep Learning, Generative Networks, Speech Processing
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Computer Engineering
+
+
+- layout: left
+  name: Ege University
+  dates: 2012-2016
+  qualification: Bachelor of Science
+  #quote: >
+    #Sentiment Analysis, Semantic Web, 
+  description: | # this will include new lines to allow paragraphs
+    Computer Engineering
