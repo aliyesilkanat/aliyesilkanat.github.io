@@ -88,6 +88,13 @@
             </a>
           </li>
         {%- endif -%}
+         {%- if site.soundcloud_username -%}
+          <li>
+            <a target="_blank" href="https://soundcloud.com/{{ site.soundcloud_username| escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-soundcloud" title="Soundcloud link"></i>
+            </a>
+          </li>
+        {%- endif -%}
       </ul>
 
      
