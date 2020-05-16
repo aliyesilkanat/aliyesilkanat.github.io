@@ -2,7 +2,7 @@
 - layout: top-middle
   name: Adversarial One-Shot Voice Conversion
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/aliyesilkanat/Adversarial-One-Shot-Voice-Conversion
+  github: aliyesilkanat/Adversarial-One-Shot-Voice-Conversion
   quote: >
     A Yesilkanat, H Kaya, S. F. Gurgen, “Adversarial One-Shot Voice Conversion with Disentangled Representations”, ICPR 2020. (Under Review)
   #description: | # this will include new lines to allow paragraphs
