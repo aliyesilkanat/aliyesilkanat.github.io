@@ -2,10 +2,10 @@
 - layout: left
   company: Yapı Kredi Teknoloji
   link: http://www.ykteknoloji.com.tr/
-  job_title: R&D Engineer Speacilist
+  job_title: RD Engineer Speacilist
   dates: March 2018 - present
   quote: >
-   Applied AI and R&D Department
+   Applied AI and RD Department
   description: | # this will include new lines to allow paragraphs
     Credit card fraud detection.
 
