@@ -20,9 +20,9 @@
       </p>
     {%- endif -%}
   {%- if include.item.quote -%}
-      <p class="quote">{{ include.item.quote }}</p>
+      <h3>{{ include.item.quote }}</h3>
     {%- endif -%}
-    {{ include.item.description | strip | markdownify }}
+  <p>{{ include.item.description | strip | markdownify }}</p>
   </div>
   <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
     
