@@ -3,21 +3,20 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Ali Yeşilkanat
+title: R&D Engineer Speacilist
+email: aliyesilkanat@gmail.com 
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  aliyesilkanat
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: aliyesilkanat
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
