@@ -20,7 +20,7 @@
       </p>
     {%- endif -%}
   {%- if include.item.quote -%}
-      <h5>{{ include.item.quote }}</h5>
+      {{ include.item.quote }}
     {%- endif -%}
   <p>{{ include.item.description | strip | markdownify }}</p>
   </div>
