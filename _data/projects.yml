@@ -7,3 +7,22 @@
     A Yesilkanat, H Kaya, S. F. Gurgen, “Adversarial One-Shot Voice Conversion with Disentangled Representations”, ICPR 2020. (Under Review)
   #description: | # this will include new lines to allow paragraphs
     #Description about the work on/with the project
+
+- layout: top-middle
+  name: An Adaptive Approach on Credit Card Fraud Detection using Transaction Aggregation and Word Embeddings
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: https://github.com/aliyesilkanat/Adversarial-One-Shot-Voice-Conversion
+  quote: >
+    A Yesilkanat, B. Bayram, B. Koroglu, S. Arslan, "An Adaptive Approach on Credit Card Fraud Detection using Transaction Aggregation and Word Embeddings", AIAI 2020.
+  #description: | # this will include new lines to allow paragraphs
+    #Description about the work on/with the project
+    
+- layout: top-middle
+  name: LSTM Based Cross-corpus and Cross-task Acoustic Emotion Recognition
+  link: https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2298.html
+  #github: https://github.com/aliyesilkanat/Adversarial-One-Shot-Voice-Conversion
+  quote: >
+    H. Kaya, D. Fedotov, A. Yesilkanat, O. Verkholyak, Y. Zhang, A. Karpov, “LSTM Based Cross-corpus and Cross-task Acoustic Emotion Recognition”, Interspeech 2018.
+  #description: | # this will include new lines to allow paragraphs
+    #Description about the work on/with the project
+
