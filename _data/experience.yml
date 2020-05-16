@@ -6,8 +6,8 @@
   dates: March 2018 - present
   quote: >
    Applied AI and R&D Department
-  description: | # this will include new lines to allow paragraphs
-    Credit card fraud detection.
+  #description: | # this will include new lines to allow paragraphs
+    #Credit card fraud detection.
 
 
 - layout: left
@@ -17,5 +17,5 @@
   dates: August 2016 - April 2017
   quote: >
    Yapi Kredi Bank - Core Banking Department
-  description: | # this will include new lines to allow paragraphs
-    Java development for banking applications.
+  #description: | # this will include new lines to allow paragraphs
+    #Java development for banking applications.
