@@ -1,10 +1,20 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Yapı Kredi Teknoloji
+  link: http://www.ykteknoloji.com.tr/
+  job_title: R&D Engineer Speacilist
+  dates: March 2018 - present
   quote: >
-   Short description of the company (optional)
+   Applied AI and R&D Department
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Credit card fraud detection.
+
+- layout: left
+  company: OBSS
+  link: https://obss.com.tr/
+  job_title: Software Developer
+   dates: August 2016 - April 2017
+  quote: >
+   Yapi Kredi Bank - Core Banking Department
+  description: | # this will include new lines to allow paragraphs
+    Java development for banking applications.
