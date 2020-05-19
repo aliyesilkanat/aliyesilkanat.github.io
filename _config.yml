@@ -4,7 +4,7 @@ repository: https://github.com/aliyesilkanat/aliyesilkanat.github.io
 
 # Personal info
 name: Ali Yeşilkanat
-title: R&D Engineer Speacilist
+title: R&D Engineer Specialist
 email: aliyesilkanat@gmail.com 
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
@@ -21,15 +21,19 @@ linkedin_username: aliyesilkanat
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
+soundcloud_username: aliyesilkanat
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Interests: Deep Learning, Machine Learning, Speech Synthesis, Voice Conversion
+  I am working as R&D Engineer Specialist at Yapı Kredi Technology. I have received my BS and MS degrees from Computer Engineering at Ege University and Bogazici University, respectively.
+  
+  I am interested in Deep Learning, Machine Learning, Speech Synthesis, Voice Conversion.
+  You can check my [CV](resume.pdf).
 
-  #You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-  [CV](https://github.com/aliyesilkanat/aliyesilkanat.github.io/resume.pdf)
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+  
   
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -42,13 +46,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#more_content: | # this will include new lines to allow paragraphs
+# This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
