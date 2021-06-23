@@ -1,12 +1,12 @@
 # Project template
-- layout: top-middle
-  name: Adversarial One-Shot Voice Conversion
-  link: https://aliyesilkanat.github.io/Adversarial-One-Shot-Voice-Conversion/
-  #github: 
-  quote: >
-    A Yesilkanat, H Kaya, S. F. Gurgen, “Adversarial One-Shot Voice Conversion with Disentangled Representations”, ICPR 2020. (Under Review)
-  #description: | # this will include new lines to allow paragraphs
-    #Description about the work on/with the project
+# - layout: top-middle
+#   name: Adversarial One-Shot Voice Conversion
+#   link: https://aliyesilkanat.github.io/Adversarial-One-Shot-Voice-Conversion/
+#   #github: 
+#   quote: >
+#     A Yesilkanat, H Kaya, S. F. Gurgen, “Adversarial One-Shot Voice Conversion with Disentangled Representations”, ICPR 2020. (Under Review)
+#   #description: | # this will include new lines to allow paragraphs
+#     #Description about the work on/with the project
 
 - layout: top-middle
   name: An Adaptive Approach on Credit Card Fraud Detection using Transaction Aggregation and Word Embeddings
